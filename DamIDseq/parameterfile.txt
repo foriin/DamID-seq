@@ -1,0 +1,4 @@
+SPECIES=fly
+FASTQ_FILES='/path/to/dir/with/fastq/*.gz'
+ASSEMBLY=dm3
+OUTPUT_DIR=/path/to/your/output/dir

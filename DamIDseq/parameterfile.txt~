@@ -1,0 +1,4 @@
+SPECIES=fly
+FASTQ_FILES='/home/liartom/workspace/DamID/ivankin/data/SRC/*.gz'
+ASSEMBLY=dm3
+OUTPUT_DIR=/home/liartom/workspace/DamID/ivankin/data/OUT
