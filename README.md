@@ -1,4 +1,4 @@
-### DamID-seq4NAR
+### DamID-seq
 A set of scripts used to analyze DamID-seq experiments in the Laboratory of Analysis of Gene Regulation of IMG RAS, Moscow
 
 Part of these scripts was designed by Ludo Pagie from Bas van Steensel's [research group](https://www.nki.nl/divisions/gene-regulation/van-steensel-b-group/)
