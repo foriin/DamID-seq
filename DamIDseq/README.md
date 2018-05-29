@@ -1,4 +1,4 @@
-### Scripts for mapping and counting reads
+### 2. Scripts for mapping and counting reads
 
 Usage: `DamID-seq_count.sh parameterfile.txt bins_size1 bins_size2 ... bins_sizeN`
 
