@@ -14,7 +14,7 @@ To succesfully implement these scripts you need to have these programs installed
 All paths to these programs must be set by yourself in *aligner.sh* and *reads2bins.sh* as bash variables.
 
 R scripts may require packages that are not installed in your library. Please install them from the CRAN repository
-or if it doesn't work via [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
+or if it doesn't work via [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software).
 #### Before you start
 If you clone repository you will find make.bins.R script in DamIDseq/bins folder. Please open it, set desirable size
 of bins and launch it. It will generate gff and txt files, former for the HTSeq-count and latter for
