@@ -17,7 +17,7 @@ R scripts may require packages that are not installed in your library. Please in
 or if it doesn't work via [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software).
 #### Before you start
 If you clone repository you will find make.bins.R script in DamIDseq/bins folder. Please open it, set desirable size
-of bins and launch it. It will generate gff and txt files, former for the HTSeq-count and latter for
+of bins and launch it. It will generate gff and txt files, the former for the HTSeq-count and the latter for
 the DamID-seq_analysis.R script. You can re-run this script with different bin size setting and make files for different
 bin sizes.
 
@@ -30,7 +30,7 @@ ASSEMBLY=dm3
 OUTPUT_DIR='/home/johndoe/work/projectX/OUT'
 ```
 
-Last, but not least, you have to add info about your run files in damid_description.csv file. It's a simple tab-delimited table where in the left column you should write file name of your fastq-file and in the right corresponding info in the format: 
+Last but not least, you have to add info about your run files in damid_description.csv file. It's a simple tab-delimited table where in the left column you should write file name of your fastq-file and in the right corresponding info in the format: 
 TISSUE.PROTEIN.CONDITIONS.REPLICATE_NUMBER. Example:
 ```
 Data.set  fastq.file
